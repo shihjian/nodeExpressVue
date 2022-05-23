@@ -2,7 +2,7 @@
   <div class="search">
     <div class="select">
       <select>
-        <option>最新文章</option>
+        <option>最新貼文</option>
       </select>
     </div>
     <div class="searchBar">
@@ -31,7 +31,8 @@ export default {
     border: 2px solid #000;
     select {
       width: 100%;
-      padding: 10px 16px;
+      top: 10px;
+      position: relative;
       font-size: 20px;
       border: none;
     }

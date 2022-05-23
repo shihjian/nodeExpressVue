@@ -1,6 +1,23 @@
 <template>
   <div class="post">
-    <p>454</p>
+    <button>張貼動態</button>
+    <div class="active">
+      <ul>
+        <li>
+          <img src="@/assets/img/default.png" alt="" />
+          <p>邊緣人</p>
+        </li>
+        <li>
+          <img src="@/assets/img/default.png" alt="" />
+          <p>追蹤名單</p>
+        </li>
+
+        <li>
+          <img src="@/assets/img/default.png" alt="" />
+          <p>我按讚的貼文</p>
+        </li>
+      </ul>
+    </div>
   </div>
 </template>
 

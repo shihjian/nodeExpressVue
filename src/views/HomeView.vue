@@ -33,7 +33,7 @@ export default {
   max-width: 1024px;
   margin: 0 auto;
   display: flex;
-  align-items: center;
+  align-items: baseline;
   .container {
     width: 100%;
     padding: 15px 5px;
